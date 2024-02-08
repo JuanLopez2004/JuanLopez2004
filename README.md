@@ -1,6 +1,6 @@
 ### Hello!!! I'm juan 👋👋👋
 
-### I'm working towards my Bachelors in Science in Computer Science 👨‍🎓
+### I'm working towards my Bachelors of Science in Computer Science 👨‍🎓
 ### My Emphasis is Software Development 💻
 ### I'm currently studying: C++, Unix, HTML, mySQL, and Databases 📟
 
