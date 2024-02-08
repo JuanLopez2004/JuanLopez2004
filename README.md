@@ -1,8 +1,8 @@
 ### Hello!!! I'm juan👋
 
-I'm working towards my Bachelors in Science in Computer Science
-My Emphasis is Software Development 
-I'm currently studying: C++, Unix, HTML, mySQL, and Databases
+### I'm working towards my Bachelors in Science in Computer Science
+### My Emphasis is Software Development 
+### I'm currently studying: C++, Unix, HTML, mySQL, and Databases
 
 <!--
 **JuanLopez2004/JuanLopez2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
