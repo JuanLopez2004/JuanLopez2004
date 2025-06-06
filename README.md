@@ -13,4 +13,4 @@
 <p> • NIU Autograder rework (No Autograding) </p>
 <p> • Web Music Album Cataloguer </p>
 <p> • Security Cam using OpenCV and other Python Libraries </p>
-<p> • DekalbMusic Instagram Page </p>
+<p> • DekalbMusic Webpage </p>
