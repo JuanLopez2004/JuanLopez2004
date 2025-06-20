@@ -15,3 +15,5 @@
 <p> • NIU ACM Website </p>
 <p> • Security Cam using OpenCV and other Python Libraries </p>
 <p> • DekalbMusic Webpage </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JuanLopez2004=JuanLopez2004&layout=compact)
