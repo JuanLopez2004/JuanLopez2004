@@ -18,4 +18,3 @@
 <p> • DekalbMusic Webpage </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&layout=compact&theme=dark&langs_count=6)
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanLopez2004&show_icons=true)
