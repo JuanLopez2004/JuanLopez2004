@@ -5,7 +5,7 @@
 <p> • Chair of NIU's ACM Chapter. </p>
 
 ### Currently working on: 
-<p> • Portfolio Site. Neverending Development. Planning to incorporate Javascript </p>
+<p> • Portfolio Site Redesign in React, Typescript, NextJS </p>
 <p> • Goosebot! Discord Bot for personal use and data collection learning </p>
 <p> • Polishing up HTML, CSS, ReactJS, TypeScript, SQL, C++ Skills! </p>
 <p> • Python Webscraper </p>
