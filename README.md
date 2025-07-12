@@ -17,4 +17,4 @@
 <p> • Security Cam using OpenCV and other Python Libraries </p>
 <p> • DekalbMusic Webpage </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&layout=compact&theme=dark&langs_count=8&exclude_repo=466Project,AmericanFootballApp,NIUQBHandbook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&layout=compact&theme=dark&langs_count=7&exclude_repo=466Project,AmericanFootballApp,NIUQBHandbook)
