@@ -9,15 +9,16 @@
 
 ### Currently working on: 
 <p> • Portfolio Site Redesign in React, Typescript, NextJS </p>
-<p> • Goosebot! Discord Bot for personal use and data collection learning </p>
 <p> • NIU ACM Website </p>
 <p> • RenPy Dusky Dating Sim </p>
 <p> • Acy the ACM Discord Bot </p>
 
-### Ideas I'm working on
+### Projects I'm working on
 <p> • NIU Autograder rework (No Autograding) </p>
 <p> • DekalbMusic Webpage </p>
 <p> • Python Webscraper </p>
-<p> • RenPy Dusky Dating Sim </p>
+
+### Projects on the backburner
+<p> • Goosebot! Discord Bot for personal use and data collection learning </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&hide_progress=true&hide=php&theme=dark&langs_count=8)
