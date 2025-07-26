@@ -21,4 +21,4 @@
 ### Projects on the backburner
 <p> • Goosebot! Discord Bot for personal use and data collection learning </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&hide_progress=true&hide=php&theme=dark&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&hide_progress=true&hide=php&theme=dark&langs_count=10)
