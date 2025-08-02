@@ -20,4 +20,4 @@
 <p> • Goosebot! Discord Bot for personal use and data collection learning </p>
 <p> • NIU ACM Website </p>
 <p> • Acy the ACM Discord Bot </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&hide_progress=true&hide=php&theme=dark&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&hide_progress=true&hide=php&theme=dark&langs_count=8)
