@@ -8,8 +8,9 @@
 <p> • Polishing up C++, CSS, ReactJS, TypeScript, NodeJS Skills! </p>
 
 ### Currently working on: 
-<p> • Portfolio Site Redesign in React, Typescript, NextJS </p>
+<p> • Professional Portfolio Site Redesign in React, Typescript, NodeJS </p>
 <p> • RenPy Dusky Dating Sim </p>
+<p> • Personal Fun Website using the NextJS framework</p>
 
 ### Projects I'm workshopping
 <p> • NIU Autograder rework (No Autograding) </p>
