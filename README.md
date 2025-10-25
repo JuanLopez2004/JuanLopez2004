@@ -1,6 +1,6 @@
 ### Hello!!! I'm juan 
 <p> • Senior Computer Science Student @ Northern Illinois University </p>
-<p> • Focused on Frontend, Accessibility, and Design. Interest in Data Science and IT Systems </p>
+<p> • Focused on Frontend, Accessibility, and Design. Interest in IT Systems </p>
 <p> • IT Technician @ NIU Endpoint, formerly ResTech </p>
 <p> • Chair and SIGwebdev lead of NIU's ACM Chapter. </p>
 
