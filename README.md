@@ -12,7 +12,7 @@
 <p> • NIU CSCI240 Floppy Disk 1995 - 2003 Archival Project </p>
 <p> • Personal Fun Website using HTML/CSS </p>
 
-### Projects I'm workshopping
+### Projects on the backburner
 <p> • NIU Autograder rework (No Autograding) </p>
 <p> • RenPy Dusky Dating Sim </p>
 
