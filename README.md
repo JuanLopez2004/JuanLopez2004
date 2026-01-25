@@ -1,8 +1,9 @@
 ### Hello!!! I'm juan 
-<p> • Senior Computer Science Student @ Northern Illinois University </p>
+<p> • Northern Illinois University Computer Science 2026 </p>
+<p> • University of Illinois Urbana-Champaign MSIM 2028 </p>
 <p> • Focused on Frontend, Accessibility, and Design. Interest in IT Systems and Management </p>
 <p> • IT Technician @ NIU ResTech, an EndPoint Technologies Team </p>
-<p> • Chair and SIGwebdev lead of NIU's ACM Chapter. </p>
+<p> • Chair of NIU's ACM Chapter. </p>
 
 ### Currently studying
 <p> • Polishing up CSS, ReactJS, TypeScript, NodeJS Skills </p>
@@ -17,11 +18,6 @@
 
 ### Maintaining
 <p> • NIU ACM Website </p>
-<p> • Professional Portfolio Site Redesign in React, Typescript, NodeJS </p>
-
-### Recently finished projects
-<p> • Goosebot! Discord Bot for personal use and data collection learning </p>
-<p> • Acy the ACM Discord Bot </p>
-<p> • Personal Fun Website using HTML/CSS </p>
+<p> • Personal Website in React, Typescript, NodeJS </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLopez2004&hide_progress=true&hide=php&theme=dark&langs_count=8)
