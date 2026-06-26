@@ -1,5 +1,5 @@
 ### Hello!!! I'm juan 
-<p> • Northern Illinois University Computer Science 2026 </p>
+<p> • Northern Illinois University Computer Science Alum </p>
 <p> • University of Illinois Urbana-Champaign MSIM 2028 </p>
 <p> • Focused on Frontend, Accessibility, and Design. Interest in IT Systems and Management </p>
 
